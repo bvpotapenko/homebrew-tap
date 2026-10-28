@@ -2,7 +2,7 @@ class Takokey < Formula
   desc "Extra-light deterministic multi-language shortcut"
   homepage "https://github.com/bvpotapenko/takokey"
   url "https://github.com/bvpotapenko/takokey/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "b9571a68d9cd7975314bb6514579a520c2fb72d3b25b5d28bcc36560b9c6a5fa"
+  sha256 "d30138e04c96332ac30806a496f95faef23225a35cb31445122d5b60b6ec0778"
   license "GPL-3.0-or-later"
 
   depends_on arch: :arm64
