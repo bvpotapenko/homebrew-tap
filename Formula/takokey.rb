@@ -1,11 +1,10 @@
 class Takokey < Formula
   desc "Extra-light deterministic multi-language shortcut"
   homepage "https://github.com/bvpotapenko/takokey"
-  url "https://github.com/bvpotapenko/takokey/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "d30138e04c96332ac30806a496f95faef23225a35cb31445122d5b60b6ec0778"
+  url "https://github.com/bvpotapenko/takokey/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "fb582dcca6a5d66001ee90b8614cf1e5045316b9bc6df7c17e5c5bf1fcc065c5"
   license "GPL-3.0-or-later"
 
-  depends_on arch: :arm64
   depends_on macos: :ventura
 
   def install
