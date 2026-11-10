@@ -1,6 +1,6 @@
 class Takokey < Formula
   desc "Extra-light deterministic multi-language shortcut"
-  homepage "https://github.com/bvpotapenko/takokey"
+  homepage "https://takokey.potapenko.ai"
   url "https://github.com/bvpotapenko/takokey/archive/refs/tags/v1.2.0.tar.gz"
   sha256 "9906cbb9096e34a19021e47e28c67006dd2e03680f0f432d718426b49fde0bd3"
   license "GPL-3.0-or-later"
